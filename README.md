@@ -1,4 +1,4 @@
 # GTU-Hazine-Web
 GTU-Hazine Website
 
-https://omerkonan.github.io/GTU-Hazine-Web/
+https://gtuengineers.github.io/gtuhazine/
